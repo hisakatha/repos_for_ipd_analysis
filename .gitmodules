@@ -1,6 +1,6 @@
 [submodule "ipd_analysis_on_ce11rel606"]
 	path = ipd_analysis_on_ce11rel606
-	url = git@gitlab.com:hisakatha/ipd_analysis_on_ce11rel606.git
+	url = https://github.com/hisakatha/ipd_analysis_on_ce11rel606.git
 [submodule "wormbase-annotations"]
 	path = wormbase-annotations
 	url = https://github.com/hisakatha/wormbase-annotations.git
