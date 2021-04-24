@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/361056909.svg)](https://zenodo.org/badge/latestdoi/361056909)
+
 Repositories for the IPD analyses in C. elegans as submodules
 
 # Reference sequence
