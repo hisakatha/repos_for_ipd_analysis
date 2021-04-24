@@ -4,3 +4,9 @@
 [submodule "wormbase-annotations"]
 	path = wormbase-annotations
 	url = https://github.com/hisakatha/wormbase-annotations.git
+[submodule "compare-mapq-between-two-sets"]
+	path = compare-mapq-between-two-sets
+	url = https://github.com/hisakatha/compare-mapq-between-two-sets.git
+[submodule "extract-bam-unique-alignment"]
+	path = extract-bam-unique-alignment
+	url = https://github.com/hisakatha/extract-bam-unique-alignment.git
