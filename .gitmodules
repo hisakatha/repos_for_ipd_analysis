@@ -10,3 +10,6 @@
 [submodule "extract-bam-unique-alignment"]
 	path = extract-bam-unique-alignment
 	url = https://github.com/hisakatha/extract-bam-unique-alignment.git
+[submodule "collect_ipd_per_kmer"]
+	path = collect_ipd_per_kmer
+	url = https://github.com/hisakatha/collect_ipd_per_kmer.git
