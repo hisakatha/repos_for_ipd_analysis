@@ -33,7 +33,7 @@ Scripts and source codes in this repository were executed under the following en
 - For the tools written in Rust, please set up a Rust environment.
 Then, please `cargo build --release` and find the executables at `target/release` directory,
 or you can install them by `cargo install --path .`
-at the programs' root derectories.
+at the programs' root directories.
 
 # How to reproduce
 
