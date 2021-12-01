@@ -26,6 +26,7 @@ Scripts and source codes in this repository were executed under the following en
 - SeqKit (v0.10.1)
 - samtools (1.11)
 - MEME Suite (5.1.1)
+- Job scheduler: Oracle Grid Engine (6.2u7)
 
 # Installation guide
 

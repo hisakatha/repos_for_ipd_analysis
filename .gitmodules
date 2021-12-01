@@ -13,3 +13,9 @@
 [submodule "collect_ipd_per_kmer"]
 	path = collect_ipd_per_kmer
 	url = https://github.com/hisakatha/collect_ipd_per_kmer.git
+[submodule "ipd_analysis_on_mm39"]
+	path = ipd_analysis_on_mm39
+	url = https://github.com/hisakatha/ipd_analysis_on_mm39
+[submodule "ipd_analysis_on_GRCh38"]
+	path = ipd_analysis_on_GRCh38
+	url = https://github.com/hisakatha/ipd_analysis_on_GRCh38
